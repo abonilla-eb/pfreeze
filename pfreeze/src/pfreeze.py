@@ -12,7 +12,7 @@ def get_installed():
     ]
 
 
-if __name__ == '__main__':
+def run():
     packages = []
     if len(sys.argv) == 1:
         with open('requirements.txt') as req:

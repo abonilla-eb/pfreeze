@@ -17,6 +17,7 @@ setuptools.setup(
         "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
         "Environment :: Console",
+        'Intended Audience :: Developers',
     ],
     python_requires='>=3.6',
     py_modules=["pfreeze"],
