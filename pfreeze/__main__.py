@@ -1,4 +1,4 @@
-from .src import pfreeze
+from pfreeze import pfreeze
 
 if __name__ == '__main__':
     pfreeze.run()

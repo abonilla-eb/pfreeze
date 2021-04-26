@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pfreeze",
-    version="0.1.0",
+    version="0.1.4",
     author="Andres Bonilla",
     description="Pip freeze wrapper with prod/dev filter",
     long_description=long_description,
